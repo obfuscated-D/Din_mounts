@@ -8,3 +8,8 @@
 - 8-10 turns
 
 # The mounting holes are 4.5mm, for 3mm heat set inserts. I've provided the step files so that you can modify the mounts to fit whatever you want.
+
+<img src="./thin_clip.jpg">
+
+## I designed the wider clip for my [jetson enclosures](https://github.com/obfuscated-D/jetson-enclosures). Check that one out if you need an enclosure for a jetson nano original, or a jetson orin nano dev kit!
+<img src="./wide_clip.png">
